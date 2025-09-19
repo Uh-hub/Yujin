@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yujin%20Kim&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Yujin%20Kim&fontSize=90&animation=fadeIn)
 
 
 <h3>📫 Contact & Links 📫</h3>
