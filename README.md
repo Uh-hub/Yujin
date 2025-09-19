@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Yujin%20Kim&fontSize=90&animation=fadeIn)
 
+
 <h3>🛠 Game Client Stack 🛠</h3>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unreal-0E1128.svg?style=flat&logo=unrealengine&logoColor=white"/>
@@ -15,4 +16,18 @@
 
 <h3>📊 Others 📊</h3>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white"/>
+
+<br>
+<br>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uh-hub&layout=compact&theme=vue)
+
+
+<br>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uh-hub&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
