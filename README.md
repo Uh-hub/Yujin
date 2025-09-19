@@ -35,7 +35,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uh-hub&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uh-hub&layout=compact&theme=vue&hide=jupyter%20notebook)
 
 <br>
 
